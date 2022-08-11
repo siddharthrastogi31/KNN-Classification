@@ -14,4 +14,7 @@ The `k-nearest neighbors` classification algorithm is implemented in the KNeighb
 
 ## Results 
 
+The below plot gives us the distribution of features : `sepal length`, `sepal width`, `petal length` and `petal width`.
+It also tells us the relationship between the variables and points have been coloures based on the flower labels.
+
 ![](Results/Scatter-Matrix.png)
