@@ -18,3 +18,5 @@ The below plot gives us the distribution of features : `sepal length`, `sepal wi
 It also tells us the relationship between the variables and points have been coloures based on the flower labels.
 
 ![](Results/Scatter-Matrix.png)
+
+After predicting the results from test data, we got the accuracy as `0.97` which is quite good. 
